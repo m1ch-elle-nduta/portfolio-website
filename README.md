@@ -2,6 +2,9 @@
 # Chelley Photography 
 
 A photography portfolio website showcasing portraits, weddings, and nature photography.
+## Live site
+https://github.com/m1ch-elle-nduta/portfolio-website.git
+
 
 ## Features
 - Portrait photography
@@ -20,3 +23,5 @@ A photography portfolio website showcasing portraits, weddings, and nature photo
 
 ## Author
 Chelley
+### License
+Copyright (c) 2026 **Chelley**
